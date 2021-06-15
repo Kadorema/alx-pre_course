@@ -1,1 +1,1 @@
-This is my first readme filr for the alx-pre_course project
+This is my first readme file for the alx-pre_course project
